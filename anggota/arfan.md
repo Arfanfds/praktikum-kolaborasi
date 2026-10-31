@@ -1,4 +1,6 @@
-nam : Muhammad Arfan Firdaus
-NIM : 11261004
-prodi : Informatika
-kontribusi : berkontribusi dalam pembelajaran git $ github
+# Profil Anggota
+
+- Nama: Muhammad Arfan Firdaus
+- NIM: 11261004
+- Program Studi: Informatika
+- Kontribusi: Menjelaskan kontribusi dalam timmmmmmmmm
